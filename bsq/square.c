@@ -1,3 +1,4 @@
+
 #include "bsq.h"
 
 static int min(int a, int b, int c) {
@@ -44,4 +45,5 @@ void find_largest_square(char **map, int num_lines, char empty_char, char obstac
         }
     }
 }
+
 

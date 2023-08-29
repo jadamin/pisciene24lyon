@@ -18,4 +18,3 @@ int is_valid_map(char **map, int num_lines, char empty_char, char obstacle_char,
 void validate_map(char **map, int num_lines, char empty_char, char obstacle_char, char full_char);
 
 #endif
-
